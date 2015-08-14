@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://pan.baidu.com/s/1ntFy2wh</string>
+                    <string>http://www.16988.com/apk/SimpleDemo.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://pan.baidu.com/s/1jGJ8v0i</string>
+                    <string>http://www.16988.com/apk/logo114.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://pan.baidu.com/s/1o6svOQQ</string>
+                    <string>http://www.16988.com/apk/logo57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.bric.zk</string>
+                <string>com.bric.bric</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
