@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://www.leiren9.cn/114.png</string>
+                    <string>http://pan.baidu.com/s/1jGJ8v0i</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://www.leiren9.cn/57.png</string>
+                    <string>http://pan.baidu.com/s/1o6svOQQ</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.leita.wx</string>
+                <string>com.bric.bric</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>微熊科技有限公司</string>
                 <key>title</key>
-                <string>雷Ta</string>
+                <string>农产品集购网</string>
             </dict>
         </dict>
     </array>
