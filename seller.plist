@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.seller.bric</string>
+                <string>com.seller.qiye</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>布瑞克（苏州）农业信息科技有限公司</string>
+                <string>布瑞克(苏州)农业信息科技有限公司</string>
                 <key>title</key>
                 <string>集购网卖家版</string>
             </dict>
