@@ -33,7 +33,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.seller.bric.eigh</string>
+                <string>com.seller.bric</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
