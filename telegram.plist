@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://115.28.49.135/yuhuan/telegram.ipa</string>
+                    <string>http://115.28.49.135/yuhuan/freechat.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -41,7 +41,7 @@
                 <key>subtitle</key>
                 <string>布瑞克(苏州)农业信息科技有限公司</string>
                 <key>title</key>
-                <string>Telegram</string>
+                <string>free chat</string>
             </dict>
         </dict>
     </array>
