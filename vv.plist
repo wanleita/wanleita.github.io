@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://115.28.49.135/vv/vv.ipa</string>
+                    <string>http://54.254.206.217/vv/vv.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://115.28.49.135/vv/180.png</string>
+                    <string>http://54.254.206.217/vv/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,13 +27,13 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://115.28.49.135/vv/120.png</string>
+                    <string>http://54.254.206.217/vv/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.vv.lbx</string>
+                <string>com.vivi.vivi</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
