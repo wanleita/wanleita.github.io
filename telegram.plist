@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.telegram.lbx</string>
+                <string>com.atech.TelegramEnterprise</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>55724</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
