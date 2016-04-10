@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://115.28.49.135/yuhuan/freechat.ipa</string>
+                    <string>http://115.28.49.135/tg/freechat.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://115.28.49.135/yuhuan/180.png</string>
+                    <string>http://115.28.49.135/tg/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://115.28.49.135/yuhuan/120.png</string>
+                    <string>http://115.28.49.135/tg/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>布瑞克(苏州)农业信息科技有限公司</string>
+                <string>苏州科瑞特科技有限公司</string>
                 <key>title</key>
-                <string>free chat</string>
+                <string>freechat</string>
             </dict>
         </dict>
     </array>
