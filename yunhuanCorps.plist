@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.yhcorps.three</string>
+                <string>com.yhcorps1.three</string>
                 <key>bundle-version</key>
-                <string>1.0.1</string>
+                <string>1.0.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
