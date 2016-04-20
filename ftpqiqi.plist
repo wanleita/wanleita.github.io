@@ -33,9 +33,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.qiqiqiqi.qiqiqiqi</string>
+                <string>com.qiqi1.dlgame</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>2.1.5</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
