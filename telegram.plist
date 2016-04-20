@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/tg/freechat.ipa</string>
+                    <string>http://115.28.49.135/tg/freechat.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/tg/180.png</string>
+                    <string>http://115.28.49.135/tg/180.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://192.126.118.232/lbx/tg/120.png</string>
+                    <string>http://115.28.49.135/tg/120.png</string>
                 </dict>
             </array>
             <key>metadata</key>
